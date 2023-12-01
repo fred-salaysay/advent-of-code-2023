@@ -1,0 +1,16 @@
+{
+  "name": "advent-of-code-2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier \"**/*.{ts,tsx,js}\"",
+    "format:fix": "prettier --write \"**/*.{ts,tsx,js}\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.1.0"
+  }
+}
